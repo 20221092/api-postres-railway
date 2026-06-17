@@ -1,7 +1,7 @@
 {
   "name": "api-postres-railway",
   "version": "1.0.0",
-  "description": "API de venta de postres para Alexa y Railway",
+  "description": "API de venta de postres",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
