@@ -1,0 +1,13 @@
+{
+  "name": "api-postres-railway",
+  "version": "1.0.0",
+  "description": "API de venta de postres para Alexa y Railway",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
